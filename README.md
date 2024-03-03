@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-
+ 
 ## General info
 Project uses Coingecko API to fetch cryptocurrencies data. User can add coins to favourites by clicking a star and check his coins in favourites page.
 	
